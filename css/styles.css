@@ -4,11 +4,19 @@ button.lyn-dropdown-button{
 
 .lyn-card-width{
     max-width: 95%;
-    width: 70em;
+    width: 60em;
+}
+
+.lyn-resume-width{
+    max-width: 95%;
+    width: 50em;
 }
 
 table.list{
     text-align: left;
+}
+table.list th{
+    padding-bottom: 0.5em;
 }
 table th{
     padding-right: 2em;
