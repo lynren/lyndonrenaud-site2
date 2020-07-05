@@ -13,6 +13,14 @@ table.list{
 table th{
     padding-right: 2em;
 }
+table.center{
+    text-align: center;
+
+}
+
+table.center td{
+    text-align: center;
+}
 
 .sub-title{
     font-size: 1em;
